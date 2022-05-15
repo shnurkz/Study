@@ -13,7 +13,7 @@ namespace FifthLesson
             int pear = 8;
             double aplle = 5.5;
             double fruits = pear + aplle;
-            Console.WriteLine("У нас имеется " + pear + " груш и " + aplle + " яблок, всего у нас " + fruits + " фруктов");
+            Console.WriteLine("У нас имеется " + pear + " груш и " + aplle + " яблок, всего у нас " + fruits + " фруктов+++");
             //Delay
             Console.ReadLine();
 
